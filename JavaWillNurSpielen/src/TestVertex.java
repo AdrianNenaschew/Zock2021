@@ -9,6 +9,9 @@ public class TestVertex {
 		System.out.println(v1);
 		System.out.println(v2);
 		System.out.println(v3);
+		
+		System.out.println(("x"+2)+3);
+		System.out.println("x"+(2+3));
 	}
 
 }
