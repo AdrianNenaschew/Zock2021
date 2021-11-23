@@ -7,7 +7,7 @@ public class SimpleSizedPanel extends SizedPanel{
 	}
 	
 	public static void main(String[] args) {
-		ShowInFrame.show(new SimpleSizedPanel());
+		ShowInFrame.show("Erstes Rechteck",new SimpleSizedPanel());
 	}
 
 }
