@@ -1,13 +1,4 @@
-/GeometricObject.class
-/TestVertex.class
-/Vertex.class
-/Main.class
-/SimpleOval.class
-/SimpleSquare.class
-/SimpleRect.class
-/SimpleTriangle.class
-/SimpleRectangle.class
-/JFrameTest.class
-/FirstPanel.class
-/Hund.class
-/Schaeferhund.class
+/ShowInFrame.class
+/util/
+/SizedPanel.class
+/SimpleSizedPanel.class
