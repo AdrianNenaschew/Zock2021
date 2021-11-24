@@ -2,3 +2,8 @@
 /util/
 /SizedPanel.class
 /SimpleSizedPanel.class
+/Paintable.class
+/PaintableOval.class
+/PaintableRectangle.class
+/SimplePaintableRectangle.class
+/PaintablePanel.class
