@@ -1,4 +1,8 @@
-/Movable.class
-/GameObject.class
-/MovableImage.class
+/MovablePanel.class
+/SimpleButton.class
+/CountButtonListener.class
+/Counter.class
 /util/
+/Counter$1.class
+/Counter$2.class
+/Counter$3.class
