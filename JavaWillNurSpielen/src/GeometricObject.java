@@ -26,6 +26,10 @@ public class GeometricObject {
 		this(width, height, new Vertex(0, 0), new Color(0,0,0));
 	}
 
+	public GeometricObject(Vertex pos) {
+		this(0,0,pos, new Color(0,0,0));
+	}
+	
 	public GeometricObject(double width) {
 		this(width, width);
 	}
